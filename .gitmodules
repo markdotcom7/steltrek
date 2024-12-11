@@ -1,0 +1,3 @@
+[submodule "steltrek"]
+	path = steltrek
+	url = git@github.com:markdotcom7/steltrek.git
