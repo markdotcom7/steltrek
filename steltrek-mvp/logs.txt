@@ -1,0 +1,9 @@
+
+> steltrek-mvp@0.1.0 dev
+> npm run clean && next dev
+
+
+> steltrek-mvp@0.1.0 clean
+> rm -rf .next && killall -9 node
+
+No matching processes belonging to you were found
